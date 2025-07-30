@@ -65,8 +65,8 @@ Each project directory contains data, notebooks, source code, and detailed docum
 
 ## Contact
 
-**Email:** [your.email@domain.com](mailto:your.email@domain.com)  
-**LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+**Email:** [zunairamughal47@gmail.com](mailto:your.email@domain.com)  
+**LinkedIn:** [[linkedin.com/in/zunaira-hameed](https://www.linkedin.com/in/zunaira-hameed/)]
 
 ---
 
